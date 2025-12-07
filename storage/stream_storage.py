@@ -1,0 +1,1 @@
+"""Adapter for streaming storage systems (Kafka, etc)."""

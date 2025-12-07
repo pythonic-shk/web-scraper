@@ -1,0 +1,1 @@
+"""Adapter for object storage like S3 or MinIO."""
